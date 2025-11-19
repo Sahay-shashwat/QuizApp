@@ -1,0 +1,15 @@
+C:\Users\shashwat.sahay\OneDrive - Epicor\Desktop\C#\QuizAppProject\Application\bin\Debug\net9.0\Application.deps.json
+C:\Users\shashwat.sahay\OneDrive - Epicor\Desktop\C#\QuizAppProject\Application\bin\Debug\net9.0\Application.dll
+C:\Users\shashwat.sahay\OneDrive - Epicor\Desktop\C#\QuizAppProject\Application\bin\Debug\net9.0\Application.pdb
+C:\Users\shashwat.sahay\OneDrive - Epicor\Desktop\C#\QuizAppProject\Application\bin\Debug\net9.0\Core.dll
+C:\Users\shashwat.sahay\OneDrive - Epicor\Desktop\C#\QuizAppProject\Application\bin\Debug\net9.0\Core.pdb
+C:\Users\shashwat.sahay\OneDrive - Epicor\Desktop\C#\QuizAppProject\Application\obj\Debug\net9.0\Application.csproj.AssemblyReference.cache
+C:\Users\shashwat.sahay\OneDrive - Epicor\Desktop\C#\QuizAppProject\Application\obj\Debug\net9.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shashwat.sahay\OneDrive - Epicor\Desktop\C#\QuizAppProject\Application\obj\Debug\net9.0\Application.AssemblyInfoInputs.cache
+C:\Users\shashwat.sahay\OneDrive - Epicor\Desktop\C#\QuizAppProject\Application\obj\Debug\net9.0\Application.AssemblyInfo.cs
+C:\Users\shashwat.sahay\OneDrive - Epicor\Desktop\C#\QuizAppProject\Application\obj\Debug\net9.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\shashwat.sahay\OneDrive - Epicor\Desktop\C#\QuizAppProject\Application\obj\Debug\net9.0\Applicat.44B5EDA2.Up2Date
+C:\Users\shashwat.sahay\OneDrive - Epicor\Desktop\C#\QuizAppProject\Application\obj\Debug\net9.0\Application.dll
+C:\Users\shashwat.sahay\OneDrive - Epicor\Desktop\C#\QuizAppProject\Application\obj\Debug\net9.0\refint\Application.dll
+C:\Users\shashwat.sahay\OneDrive - Epicor\Desktop\C#\QuizAppProject\Application\obj\Debug\net9.0\Application.pdb
+C:\Users\shashwat.sahay\OneDrive - Epicor\Desktop\C#\QuizAppProject\Application\obj\Debug\net9.0\ref\Application.dll
