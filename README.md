@@ -8,5 +8,5 @@
 </div>
 <div>
   <h2>FLOW DIAGRAM - LIVE LEADERBOARD</h2>
-  <img width="511" height="501" alt="Flow1" src="https://github.com/user-attachments/assets/45e3abdc-3fe3-431e-baf6-dd3adf1af1d8" />
+  ![Flow1](https://github.com/user-attachments/assets/a9c36beb-9359-4bb7-acea-080e91248b27)
 </div>
