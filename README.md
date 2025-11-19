@@ -1,6 +1,6 @@
 <div>
   <h2>FLOW DIAGRAM</h2>
-  <img width="736" height="652" alt="Flow QuizApp" src="https://github.com/user-attachments/assets/b457fd4e-7f6c-4558-86b0-267c2fd01dde" />
+  ![Flow QuizApp](https://github.com/user-attachments/assets/f3d39c4f-1e0c-413d-8071-f379709b2710)
 </div>
 <div>
   <h2>Sequence Diagram - User attempting Quiz</h2>
